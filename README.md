@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi Github 👋
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Surjith. A freelance Web Desinger & Developer from Kerala, India. I design and develop websites, landing pages and applications for startups and enterprises. 
+     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/surjithctly">Twitter</a>
+  </samp>
+</p>
 
 <!--
 **surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
